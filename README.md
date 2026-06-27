@@ -349,6 +349,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
+- <img src="https://hermesplant.com/favicon.svg" height="14"/> [Hermes Plant](https://hermesplant.com/mcp) - Deterministic finance and quant MCP server — DCF, IRR, LP/GP waterfalls, Black-Scholes Greeks, bond analytics, portfolio risk, AML — billed per call over x402.
+
 ## 🧬 <a name="research-data"></a>Research & Data
 
 > Access to research papers, genetic data, and specialized datasets.
